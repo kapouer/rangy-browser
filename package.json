@@ -1,0 +1,23 @@
+{
+  "author": "Tim Down",
+  "name": "rangy-browser",
+  "description": "A cross-browser DOM range and selection library",
+  "keywords": ["range", "selection", "caret", "DOM"],
+  "version": "1.2.2-1",
+  "homepage": "http://code.google.com/p/rangy/",
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "http://www.opensource.org/licenses/mit-license.php"
+    }
+  ]
+  "repository": {
+    "type":"svn",
+    "url": "http://rangy.googlecode.com/svn/trunk/"
+  },
+  "directories": {
+    "lib": "./lib",
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}
