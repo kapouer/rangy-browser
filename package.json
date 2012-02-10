@@ -10,13 +10,13 @@
       "type": "MIT",
       "url": "http://www.opensource.org/licenses/mit-license.php"
     }
-  ]
+  ],
   "repository": {
     "type":"git",
     "url": "http://github.com/kapouer/rangy-browser.git"
   },
   "directories": {
-    "lib": "./lib",
+    "lib": "./lib"
   },
   "dependencies": {},
   "devDependencies": {}
