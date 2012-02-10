@@ -12,8 +12,8 @@
     }
   ]
   "repository": {
-    "type":"svn",
-    "url": "http://rangy.googlecode.com/svn/trunk/"
+    "type":"git",
+    "url": "http://github.com/kapouer/rangy-browser.git"
   },
   "directories": {
     "lib": "./lib",
