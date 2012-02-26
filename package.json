@@ -3,7 +3,7 @@
   "name": "rangy-browser",
   "description": "A cross-browser DOM range and selection library",
   "keywords": ["range", "selection", "caret", "DOM"],
-  "version": "1.2.2-1",
+  "version": "1.2.3-1",
   "homepage": "http://code.google.com/p/rangy/",
   "licenses": [
     {
