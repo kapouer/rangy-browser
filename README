@@ -3,3 +3,9 @@ This is the npm package for "rangy", a javascript browser library.
 Rangy scripts are provided uncompressed and unmodified.
 
 http://code.google.com/p/rangy/
+
+
+Users of latest version should install https://github.com/timdown/rangy instead
+(npm install rangy).
+
+This repository won't be updated.
